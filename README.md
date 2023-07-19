@@ -8,6 +8,19 @@ It was originally in 2 different repositories, now they are gathered in one repo
 
 Please go inside each subproject and read the proper README.md for more information.
 
+## Backend
+I used:
+* SpringBoot
+* Spring Data Rest:  This involves using special handlers
+* InMemory H2 database
+
+## FrontEnd
+I used:
+* React classes (I knew them pretty well at that time, instead of using hooks)
+* No typescript (There was no time for type checking, or defining types)
+* React Bootstrap 4
+
+
 
 # Coding Challenge
 
